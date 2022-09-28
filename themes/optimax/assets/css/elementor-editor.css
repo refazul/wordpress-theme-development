@@ -1,0 +1,28 @@
+.elementor-control-input-wrapper [class^="flaticon-"]:before,
+.elementor-control-input-wrapper [class*=" flaticon-"]:before,
+.elementor-control-input-wrapper [class^="flaticon-"]:after,
+.elementor-control-input-wrapper [class*=" flaticon-"]:after,
+.select2-container [class^="flaticon-"]:before,
+.select2-container [class*=" flaticon-"]:before,
+.select2-container [class^="flaticon-"]:after,
+.select2-container [class*=" flaticon-"]:after {
+  margin-right: 5px;
+}
+
+.elementor-panel #elementor-panel-category-optimax-widgets .elementor-element:hover {
+  background-image: linear-gradient(135deg,#562dd4 0%,#e2498a 100%);
+}
+
+.elementor-panel #elementor-panel-category-optimax-widgets .elementor-element .icon {
+  color: #ff9317;
+}
+
+.elementor-panel #elementor-panel-category-optimax-widgets .elementor-element .title {
+  color: #545454;
+}
+.elementor-panel #elementor-panel-category-optimax-widgets .elementor-element:hover .icon {
+  color: white;
+}
+.elementor-panel #elementor-panel-category-optimax-widgets .elementor-element:hover .title  {
+  color: white;
+}

@@ -1,0 +1,7 @@
+.select2-container .icon-wrapper span {
+  display: inline-block;
+  margin-left: 5px;
+}
+.select2-container .icon-wrapper span:before {
+  font-size: 16px;
+}

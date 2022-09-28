@@ -1,0 +1,61 @@
+/* Direct icon use */
+
+.flaticon-right-arrow:before {
+ content: "\f103";
+}
+
+.flaticon-left-arrow:before {
+ content: "\f105";
+}
+
+/* font awesome toggle */
+
+.fas.fa-angle-left:before {
+  content: "\f105";
+}
+.fas.fa-angle-right:before {
+  content: "\f104";
+}
+
+.fas.fa-arrow-right:before {
+  content: "\f060";
+}
+
+.fas.fa-arrow-left:before {
+  content: "\f061";
+}
+.fas.fa-arrow-circle-left:before {
+  content: "\f0a9";
+}
+.fas.fa-arrow-circle-right:before {
+  content: "\f0a8";
+}
+.fa-long-arrow-alt-left:before {
+  content: "\f30b";
+}
+.fas.fa-long-arrow-alt-right:before {
+  content: "\f30a";
+}
+
+
+/* indirect icon use */
+
+.sidebar-widget.widget_categories ul li:before, .sidebar-widget.widget_archive ul li:before, .sidebar-widget.widget_pages ul li:before, .sidebar-widget.widget_nav_menu ul li:before {
+  content: "\F0D9";
+}
+
+
+.widget_nav_menu.main-footer-box li a:before {
+  content: "\f104";
+}
+
+/* Other css */
+
+.fas.fa-check, .fas.fa-check-circle  {
+  transform: rotate(-180deg) rotateX(180deg);
+}
+
+/* Elementor overwrite */
+.elementor-widget-container .elementor-image {
+  text-align: right;
+}

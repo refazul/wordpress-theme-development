@@ -1,0 +1,11 @@
+.select2-container .icon-wrapper span {
+  display: inline-block;
+  margin-right: 5px;
+}
+.select2-container .icon-wrapper span:before {
+  font-size: 16px;
+}
+/*Redux button*/
+.redux-container-button_set .buttonset .ui-button .ui-checkboxradio-icon {
+	display: none;
+}

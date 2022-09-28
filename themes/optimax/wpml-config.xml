@@ -1,0 +1,53 @@
+<wpml-config>
+    <admin-texts>
+        <key name="optimax">
+            <key name="blog_read_more_text" />
+            <key name="error_text" />
+            <key name="error_sub_text" />
+            <key name="error_button_text" />
+            <key name="copyright_text" />
+            <key name="footer_cta_title" />
+            <key name="footer_cta_subtitle" />
+            <key name="footer_cta_btn_text" />
+            <key name="service_archive_title" />
+            <key name="case_archive_title" />
+            <key name="team_archive_title" />
+            <key name="service_page_title" />
+            <key name="case_page_title" />
+            <key name="team_page_title" />
+            <key name="menu_button_text" />
+            <key name="offcanvas_menu_footer_title" />
+            <key name="case_single_related_post_title" />
+            <key name="phone" />
+            <key name="office_time" />
+            <key name="email" />
+            <key name="under_construction_title_text" />
+        </key>
+    </admin-texts>
+    <custom-types>
+        <custom-type translate="1">optimax_team</custom-type>
+        <custom-type translate="1">optimax_case</custom-type>
+        <custom-type translate="1">optimax_testimony</custom-type>
+        <custom-type translate="1">optimax_service</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">optimax_team_category</taxonomy>
+        <taxonomy translate="1">optimax_service_category</taxonomy>
+        <taxonomy translate="1">optimax_case_category</taxonomy>
+        <taxonomy translate="1">optimax_testimony_category</taxonomy>
+    </taxonomies>
+    <custom-fields>
+       <custom-field action="translate">blog_read_more_text</custom-field>
+       <custom-field action="translate">error_text</custom-field>
+       <custom-field action="translate">error_sub_text</custom-field>
+       <custom-field action="translate">error_button_text</custom-field>
+       <custom-field action="translate">footer_cta_btn_text</custom-field>
+       <custom-field action="translate">optimax_team_settings</custom-field>
+       <custom-field action="translate">optimax_team_designation</custom-field>
+       <custom-field action="translate">optimax_team_socials_header</custom-field>
+       <custom-field action="translate">optimax_team_socials</custom-field>
+       <custom-field action="translate">optimax_case_client</custom-field>
+       <custom-field action="translate">optimax_case_client_website</custom-field>
+       <custom-field action="translate">optimax_tes_designation</custom-field>
+   </custom-fields>
+</wpml-config>

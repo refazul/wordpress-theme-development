@@ -1,0 +1,1855 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Optimax\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-15 09:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: optimax"
+
+#: template-parts/comments-callback.php:29
+#, php-format
+msgid " %1$s / %2$s ago"
+msgstr ""
+
+#: woocommerce/rating.php:38
+#, php-format
+msgid "%s"
+msgid_plural "%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: comments.php:21
+msgid "0"
+msgstr ""
+
+#: inc/options/footer.php:26 inc/options/header.php:81
+#: inc/options/header.php:94 inc/options/layout.php:40
+msgid "1 Column"
+msgstr ""
+
+#: inc/options/header.php:82 inc/options/header.php:95
+#: inc/options/layout.php:41
+msgid "2 Column"
+msgstr ""
+
+#: inc/options/footer.php:27
+msgid "2 Columns"
+msgstr ""
+
+#: inc/options/header.php:83 inc/options/header.php:96
+#: inc/options/layout.php:42
+msgid "3 Column"
+msgstr ""
+
+#: inc/options/footer.php:28
+msgid "3 Columns"
+msgstr ""
+
+#: inc/options/header.php:84 inc/options/header.php:97
+#: inc/options/layout.php:43
+msgid "4 Column"
+msgstr ""
+
+#: inc/options/footer.php:29
+msgid "4 Columns"
+msgstr ""
+
+#: inc/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/general.php:141 inc/options/color.php:46
+msgid "Accent Color"
+msgstr ""
+
+#: inc/options/color.php:351
+msgid "Active Breadcrumb Color"
+msgstr ""
+
+#: woocommerce/custom/functions.php:371
+msgid "Add To Compare"
+msgstr ""
+
+#: woocommerce/custom/template-parts/wishlist-icon.php:14
+#: woocommerce/custom/template-parts/wishlist2-icon.php:14
+msgid "Add to Wishlist"
+msgstr ""
+
+#: woocommerce/custom/template-parts/wishlist2-icon.php:15
+msgid "Added in Wishlist! View Wishlist"
+msgstr ""
+
+#: woocommerce/custom/template-parts/wishlist-icon.php:15
+msgid "Aleady exists in Wishlist! Click here to view Wishlist"
+msgstr ""
+
+#. Name of the template
+msgid "All Child Listing"
+msgstr ""
+
+#: inc/helper.php:80
+msgid "All Posts"
+msgstr ""
+
+#: inc/options/general.php:158
+msgid "Alternative Preview Image"
+msgstr ""
+
+#: inc/options/header.php:114
+msgid "Apply container / container-fluid class in header content"
+msgstr ""
+
+#: inc/options/layout.php:132
+msgid "apply container / container-fluid class in header content"
+msgstr ""
+
+#: inc/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: template-parts/blog/content-single.php:113
+msgid "Author"
+msgstr ""
+
+#: inc/options/general.php:51
+msgid "Back to Top Arrow"
+msgstr ""
+
+#: inc/options/footer.php:93 inc/options/header.php:281
+#: inc/options/layout.php:218
+msgid "Background Color"
+msgstr ""
+
+#: inc/options/footer.php:94 inc/options/header.php:282
+#: inc/options/layout.php:219
+msgid "Background Image"
+msgstr ""
+
+#: inc/options/color.php:315 inc/options/header.php:262
+#: inc/options/layout.php:192
+msgid "Banner"
+msgstr ""
+
+#: inc/options/header.php:290 inc/options/layout.php:234
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/options/header.php:299 inc/options/layout.php:227
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/options/header.php:279 inc/options/layout.php:215
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/options/color.php:322
+msgid "Banner Title Color"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Template"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Template With Topbar and footer"
+msgstr ""
+
+#: inc/options/blog.php:56
+msgid "Blog "
+msgstr ""
+
+#: inc/options/layout.php:348
+msgid "Blog / Archive"
+msgstr ""
+
+#: inc/options/layout.php:323
+msgid "Blog Custom template: Number of items per page"
+msgstr ""
+
+#: inc/options/layout.php:331
+msgid "Blog Custom template: Order By"
+msgstr ""
+
+#: inc/options/blog.php:16
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/options/layout.php:312
+msgid "Blog/Archive Layout Style"
+msgstr ""
+
+#: inc/general.php:198
+msgid "Blue dark light color"
+msgstr ""
+
+#: inc/options/typography.php:23
+msgid "Body"
+msgstr ""
+
+#: inc/options/header.php:118
+msgid "Box Header"
+msgstr ""
+
+#: inc/options/layout.php:138
+msgid "box header"
+msgstr ""
+
+#: inc/options/color.php:330 inc/options/general.php:25
+#: inc/options/header.php:270 inc/options/layout.php:203
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/options/color.php:337
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/options/color.php:344
+msgid "Breadcrumb Link Hover Color"
+msgstr ""
+
+#: inc/options/color.php:358
+msgid "Breadcrumb Seperator Color"
+msgstr ""
+
+#: inc/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: inc/options/error.php:44
+msgid "Button Text"
+msgstr ""
+
+#: template-parts/blog/content-1.php:44 template-parts/blog/content-2.php:44
+#: template-parts/blog/content-3.php:35
+#: template-parts/blog/content-single.php:43
+msgid "by "
+msgstr ""
+
+#: inc/options/layout.php:71
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/general.php:352
+msgid "Case Sidebar"
+msgstr ""
+
+#: inc/options/layout.php:648
+msgid "Case Single Related Post Title"
+msgstr ""
+
+#: inc/options/layout.php:839
+msgid "Case Studies single sub-title"
+msgstr ""
+
+#: inc/options/layout.php:840
+msgid "Case Studies single subtitle"
+msgstr ""
+
+#: inc/options/layout.php:822
+msgid "Case Studies Single title"
+msgstr ""
+
+#: inc/options/layout.php:823
+msgid "Case Studies single title"
+msgstr ""
+
+#: inc/options/layout.php:470
+msgid "Case Study Archive"
+msgstr ""
+
+#: inc/options/general.php:128
+msgid "Case Study Archive Title"
+msgstr ""
+
+#: inc/options/general.php:101
+msgid "Case Study Category Slug"
+msgstr ""
+
+#: inc/options/general.php:146
+msgid "Case study Page Title"
+msgstr ""
+
+#: inc/options/layout.php:713
+msgid "Case Study Single"
+msgstr ""
+
+#: inc/options/general.php:87
+msgid "Case Study Slug"
+msgstr ""
+
+#: inc/options/general.php:94
+msgid "Case Study Tags Slug"
+msgstr ""
+
+#: template-parts/case/content-case-single-1.php:62
+#: template-parts/case/content-case-single-2.php:65
+#: template-parts/case/content-case-single-3.php:59
+msgid "Category"
+msgstr ""
+
+#: template-parts/case/content-case-single-1.php:59
+#: template-parts/case/content-case-single-2.php:62
+#: template-parts/case/content-case-single-3.php:62
+msgid "Client"
+msgstr ""
+
+#: inc/options/color.php:16
+msgid "Colors"
+msgstr ""
+
+#: under-construction.php:31
+msgid "Coming Soon"
+msgstr ""
+
+#: comments.php:20 template-parts/blog/content-1.php:21
+#: template-parts/blog/content-2.php:21 template-parts/blog/content-3.php:16
+#: template-parts/blog/content-single.php:20
+msgid "Comment"
+msgstr ""
+
+#: comments.php:52
+msgid "Comment *"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:254
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:20 template-parts/blog/content-1.php:21
+#: template-parts/blog/content-2.php:21 template-parts/blog/content-3.php:16
+#: template-parts/blog/content-single.php:20
+msgid "Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/options/woocommerce.php:61 inc/options/woocommerce.php:91
+msgid "Compare"
+msgstr ""
+
+#: inc/options/socials.php:16
+msgid "Contact & Socials"
+msgstr ""
+
+#: inc/options/general.php:65 inc/options/layout.php:185
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: inc/options/general.php:59 inc/options/layout.php:179
+msgid "Content Padding Top"
+msgstr ""
+
+#: template-parts/content-search.php:13
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/options/footer.php:36
+msgid "Copyright Area"
+msgstr ""
+
+#: inc/options/color.php:385
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/options/footer.php:58
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/options/under-construction.php:53
+msgid "Countdown Date"
+msgstr ""
+
+#: inc/options/layout.php:337 inc/options/layout.php:433
+#: inc/options/layout.php:519 inc/options/layout.php:582
+msgid "Custom Order (Available via Order field inside Page Attributes box)"
+msgstr ""
+
+#: inc/options/layout.php:29
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/breadcrumbs.php:770 inc/breadcrumbs.php:1200
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/options/layout.php:148
+msgid "Dark Theme"
+msgstr ""
+
+#: inc/options/header.php:107
+msgid "Dark theme"
+msgstr ""
+
+#: inc/options/layout.php:335 inc/options/layout.php:431
+#: inc/options/layout.php:517 inc/options/layout.php:580
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: inc/scripts.php:266
+msgid "Day"
+msgstr ""
+
+#: inc/options/layout.php:39 inc/options/layout.php:52
+#: inc/options/layout.php:63 inc/options/layout.php:74
+#: inc/options/layout.php:85 inc/options/layout.php:97
+#: inc/options/layout.php:108 inc/options/layout.php:122
+#: inc/options/layout.php:158 inc/options/layout.php:171
+#: inc/options/layout.php:194 inc/options/layout.php:205
+#: inc/options/layout.php:217 inc/options/layout.php:245
+#: inc/options/layout.php:257
+msgid "Default"
+msgstr ""
+
+#: inc/options/layout.php:136 inc/options/layout.php:146
+msgid "default"
+msgstr ""
+
+#: inc/options/layout.php:54 inc/options/layout.php:65
+#: inc/options/layout.php:76 inc/options/layout.php:87
+msgid "Disable"
+msgstr ""
+
+#: inc/options/footer.php:44 inc/options/footer.php:52
+#: inc/options/footer.php:74 inc/options/general.php:27
+#: inc/options/general.php:35 inc/options/general.php:53
+#: inc/options/header.php:128 inc/options/header.php:137
+#: inc/options/header.php:146 inc/options/header.php:155
+#: inc/options/header.php:203 inc/options/header.php:232
+#: inc/options/header.php:240 inc/options/header.php:248
+#: inc/options/header.php:264 inc/options/header.php:272
+#: inc/options/layout.php:99 inc/options/layout.php:160
+#: inc/options/layout.php:173 inc/options/layout.php:196
+#: inc/options/layout.php:207 inc/options/layout.php:247
+#: inc/options/layout.php:363 inc/options/layout.php:442
+#: inc/options/layout.php:556 inc/options/layout.php:632
+#: inc/options/layout.php:641 inc/options/layout.php:698
+#: inc/options/layout.php:743 inc/options/layout.php:759
+#: inc/options/layout.php:806 inc/options/layout.php:815
+#: inc/options/layout.php:832 inc/options/woocommerce.php:47
+#: inc/options/woocommerce.php:55 inc/options/woocommerce.php:63
+#: inc/options/woocommerce.php:71 inc/options/woocommerce.php:85
+msgid "Disabled"
+msgstr ""
+
+#: inc/options/post.php:105
+msgid "Display About Author"
+msgstr ""
+
+#: inc/options/blog.php:32 inc/options/post.php:32
+msgid "Display Author Name"
+msgstr ""
+
+#: inc/options/post.php:72
+msgid "Display Autor Social Profile"
+msgstr ""
+
+#: inc/options/layout.php:688
+msgid "Display Case view"
+msgstr ""
+
+#: inc/options/blog.php:48 inc/options/post.php:48
+msgid "Display Categories"
+msgstr ""
+
+#: inc/options/blog.php:40 inc/options/post.php:40
+msgid "Display Comment Number"
+msgstr ""
+
+#: inc/options/footer.php:42
+msgid "Display Copyright Area"
+msgstr ""
+
+#: inc/options/blog.php:24
+msgid "Display Date"
+msgstr ""
+
+#: inc/options/post.php:24
+msgid "Display Post Date"
+msgstr ""
+
+#: inc/options/layout.php:655 inc/options/post.php:64
+msgid "Display Social Sharing"
+msgstr ""
+
+#: inc/options/post.php:56
+msgid "Display Tags"
+msgstr ""
+
+#: inc/options/layout.php:324 inc/options/layout.php:332
+msgid "Effect only for Blog custom page template"
+msgstr ""
+
+#: comments.php:42 inc/options/socials.php:36
+msgid "Email"
+msgstr ""
+
+#: inc/options/layout.php:53 inc/options/layout.php:64
+#: inc/options/layout.php:75 inc/options/layout.php:86
+msgid "Enable"
+msgstr ""
+
+#: inc/options/footer.php:43 inc/options/footer.php:51
+#: inc/options/footer.php:73 inc/options/general.php:26
+#: inc/options/general.php:34 inc/options/general.php:52
+#: inc/options/header.php:127 inc/options/header.php:136
+#: inc/options/header.php:145 inc/options/header.php:154
+#: inc/options/header.php:202 inc/options/header.php:231
+#: inc/options/header.php:239 inc/options/header.php:247
+#: inc/options/header.php:263 inc/options/header.php:271
+#: inc/options/layout.php:98 inc/options/layout.php:159
+#: inc/options/layout.php:172 inc/options/layout.php:195
+#: inc/options/layout.php:206 inc/options/layout.php:246
+#: inc/options/layout.php:362 inc/options/layout.php:441
+#: inc/options/layout.php:555 inc/options/layout.php:631
+#: inc/options/layout.php:640 inc/options/layout.php:697
+#: inc/options/layout.php:742 inc/options/layout.php:758
+#: inc/options/layout.php:805 inc/options/layout.php:814
+#: inc/options/layout.php:831 inc/options/woocommerce.php:46
+#: inc/options/woocommerce.php:54 inc/options/woocommerce.php:62
+#: inc/options/woocommerce.php:70 inc/options/woocommerce.php:84
+msgid "Enabled"
+msgstr ""
+
+#: inc/options/layout.php:395
+msgid "Error 404 Layout"
+msgstr ""
+
+#: inc/options/error.php:24
+msgid "Error Image"
+msgstr ""
+
+#: inc/options/error.php:16
+msgid "Error Page Settings"
+msgstr ""
+
+#: inc/options/error.php:38
+msgid "Error Sub Text"
+msgstr ""
+
+#: inc/options/error.php:32
+msgid "Error Text"
+msgstr ""
+
+#: functions.php:45
+#, php-format
+msgid ""
+"Error: Your current PHP version is %1$s. You need at least PHP version 5.3+ "
+"for theme \"%2$s\" to work. Please ask your hosting provider to upgrade your "
+"PHP version into 5.3+"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:9 inc/options/socials.php:43
+msgid "Facebook"
+msgstr ""
+
+#: inc/options/layout.php:808
+msgid "Featured image top of the service in single page"
+msgstr ""
+
+#: inc/options/header.php:117
+msgid "Fluid Header"
+msgstr ""
+
+#: inc/options/layout.php:137
+msgid "fluid header"
+msgstr ""
+
+#: inc/options/footer.php:16
+msgid "Footer"
+msgstr ""
+
+#: inc/general.php:307
+msgid "Footer 1"
+msgstr ""
+
+#: inc/general.php:308
+msgid "Footer 2"
+msgstr ""
+
+#: inc/general.php:309
+msgid "Footer 3"
+msgstr ""
+
+#: inc/general.php:310
+msgid "Footer 4"
+msgstr ""
+
+#: inc/options/color.php:364
+msgid "Footer Area"
+msgstr ""
+
+#: inc/options/color.php:371
+msgid "Footer Background Color 1"
+msgstr ""
+
+#: inc/options/color.php:378
+msgid "Footer Background Color 2"
+msgstr ""
+
+#: inc/options/color.php:406
+msgid "Footer Body Link Color"
+msgstr ""
+
+#: inc/options/color.php:413
+msgid "Footer Body Link Hover Color"
+msgstr ""
+
+#: inc/options/color.php:399
+msgid "Footer Body Text Color"
+msgstr ""
+
+#: inc/options/footer.php:72 inc/options/layout.php:243
+msgid "Footer Call To Action"
+msgstr ""
+
+#: inc/options/footer.php:102
+msgid "Footer Call To Action Background Color"
+msgstr ""
+
+#: inc/options/footer.php:111
+msgid "Footer Call To Action Background Image"
+msgstr ""
+
+#: inc/options/footer.php:91
+msgid "Footer Call To Action Background Type"
+msgstr ""
+
+#: inc/options/footer.php:134
+msgid "Footer Call To Action Button Text"
+msgstr ""
+
+#: inc/options/footer.php:141
+msgid "Footer Call To Action Button Url"
+msgstr ""
+
+#: inc/options/footer.php:80 inc/options/layout.php:255
+msgid "Footer Call To Action Style"
+msgstr ""
+
+#: inc/options/footer.php:127
+msgid "Footer Call To Action Subtitle"
+msgstr ""
+
+#: inc/options/footer.php:157
+msgid "Footer Call To Action Subtitle Color"
+msgstr ""
+
+#: inc/options/footer.php:120
+msgid "Footer Call To Action Title"
+msgstr ""
+
+#: inc/options/footer.php:149
+msgid "Footer Call To Action Title Color"
+msgstr ""
+
+#: inc/options/color.php:392
+msgid "Footer Title Text Color"
+msgstr ""
+
+#: inc/general.php:323
+msgid "Footer Top 1"
+msgstr ""
+
+#: inc/general.php:332
+msgid "Footer Top 2"
+msgstr ""
+
+#: inc/options/footer.php:65
+msgid "Footer Top Call To Action"
+msgstr ""
+
+#: inc/options/footer.php:66
+msgid "Footer Top Call to action"
+msgstr ""
+
+#: inc/options/layout.php:21
+msgid "Full Width"
+msgstr ""
+
+#: inc/options/general.php:16 inc/options/woocommerce.php:27
+msgid "General"
+msgstr ""
+
+#: inc/general.php:314
+msgid "General Sidebar"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:33
+msgid "Github"
+msgstr ""
+
+#: inc/options/error.php:45
+msgid "Go To Home Page"
+msgstr ""
+
+#: inc/scripts.php:188
+msgctxt "Google fonts - Nunito and Roboto : on or off"
+msgid "on"
+msgstr ""
+
+#: inc/options/color.php:88
+msgid "Gradient 2 Dark Color"
+msgstr ""
+
+#: inc/general.php:166
+msgid "Gradient 2 Dark Color(Blue)"
+msgstr ""
+
+#: inc/general.php:171
+msgid "Gradient 2 Light Color(Blue)"
+msgstr ""
+
+#: inc/options/color.php:67
+msgid "Gradient Color"
+msgstr ""
+
+#: inc/options/color.php:74
+msgid "Gradient Dark Color"
+msgstr ""
+
+#: inc/general.php:156
+msgid "Gradient Dark Color(Orange)"
+msgstr ""
+
+#: inc/options/color.php:81 inc/options/color.php:95
+msgid "Gradient Light Color"
+msgstr ""
+
+#: inc/general.php:161
+msgid "Gradient Light Color(Orange)"
+msgstr ""
+
+#: template-parts/header/icon-area.php:49
+#: template-parts/header/icon-area.php:53
+#: template-parts/header/icon-area.php:59
+msgid "hamburger menu"
+msgstr ""
+
+#: inc/options/header.php:50
+msgid "Hamburger menu Dark background"
+msgstr ""
+
+#: inc/options/header.php:54
+msgid "Hamburger Menu for Dark Background"
+msgstr ""
+
+#: inc/options/header.php:63
+msgid "Hamburger Menu for Light Background"
+msgstr ""
+
+#: inc/options/header.php:59
+msgid "Hamburger menu light background"
+msgstr ""
+
+#: inc/options/header.php:16
+msgid "Header"
+msgstr ""
+
+#: inc/options/typography.php:39
+msgid "Header h1"
+msgstr ""
+
+#: inc/options/typography.php:55
+msgid "Header h2"
+msgstr ""
+
+#: inc/options/typography.php:71
+msgid "Header h3"
+msgstr ""
+
+#: inc/options/typography.php:87
+msgid "Header h4"
+msgstr ""
+
+#: inc/options/typography.php:103
+msgid "Header h5"
+msgstr ""
+
+#: inc/options/typography.php:119
+msgid "Header h6"
+msgstr ""
+
+#: inc/options/header.php:174
+msgid "Header Layout"
+msgstr ""
+
+#: inc/options/layout.php:120
+msgid "Header Layout Style"
+msgstr ""
+
+#: inc/options/header.php:113
+msgid "Header type"
+msgstr ""
+
+#: inc/options/layout.php:131
+msgid "header type (container / container-fluid class)"
+msgstr ""
+
+#: inc/options/woocommerce.php:93 inc/options/woocommerce.php:101
+msgid "Hide"
+msgstr ""
+
+#: inc/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: inc/scripts.php:267
+msgid "Hour"
+msgstr ""
+
+#: inc/breadcrumbs.php:752
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. URI of the theme
+msgid "https://radiustheme.com/demo/wordpress/themes/optimax"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.radiustheme.com"
+msgstr ""
+
+#: inc/general.php:220
+msgid "Huge"
+msgstr ""
+
+#: inc/options/header.php:91
+msgid "Icon Area Width"
+msgstr ""
+
+#: inc/options/under-construction.php:25
+msgid ""
+"If enable, Unauthenticated user will get the frontend  maintenance / coming "
+"soon page only."
+msgstr ""
+
+#: woocommerce/custom/functions.php:401
+msgid "In Stock"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:29 inc/options/socials.php:73
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: inc/general.php:215
+msgid "Large"
+msgstr ""
+
+#: inc/options/layout.php:18
+msgid "Layout"
+msgstr ""
+
+#: inc/options/header.php:178 inc/options/layout.php:109
+#: inc/options/layout.php:123
+msgid "Layout 1"
+msgstr ""
+
+#: inc/options/header.php:182 inc/options/layout.php:110
+#: inc/options/layout.php:124
+msgid "Layout 2"
+msgstr ""
+
+#: inc/options/header.php:186 inc/options/layout.php:111
+#: inc/options/layout.php:125
+msgid "Layout 3"
+msgstr ""
+
+#: inc/options/header.php:190 inc/options/layout.php:112
+msgid "Layout 4"
+msgstr ""
+
+#: inc/options/layout.php:287
+msgid "Layout Defaults"
+msgstr ""
+
+#: comments.php:49
+msgid "Leave a Comment"
+msgstr ""
+
+#: inc/options/layout.php:20
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/options/layout.php:147
+msgid "Light Theme"
+msgstr ""
+
+#: inc/options/header.php:106
+msgid "Light theme"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:17 inc/options/socials.php:55
+msgid "Linkedin"
+msgstr ""
+
+#: inc/options/header.php:78
+msgid "Logo Area Width"
+msgstr ""
+
+#: template-parts/header/header-2.php:79 template-parts/header/header-3.php:70
+msgid "Mail Us"
+msgstr ""
+
+#: inc/options/header.php:32
+msgid "Main Logo for Dark Background ( Please upload transparent logo)"
+msgstr ""
+
+#: inc/options/header.php:24
+msgid "Main Logo for Light Background"
+msgstr ""
+
+#: inc/options/color.php:163
+msgid "Main Menu - (Dark Theme)"
+msgstr ""
+
+#: inc/options/color.php:132
+msgid "Main Menu - (Light Theme)"
+msgstr ""
+
+#: inc/options/typography.php:135
+msgid "Main Menu Items"
+msgstr ""
+
+#: inc/options/color.php:178
+msgid "Menu Accent / Hover Color"
+msgstr ""
+
+#: inc/options/color.php:147
+msgid "Menu Accent/Hover Color"
+msgstr ""
+
+#: inc/options/color.php:154 inc/options/color.php:185
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/options/header.php:200 inc/options/layout.php:49
+msgid "Menu Button"
+msgstr ""
+
+#: inc/options/header.php:210
+msgid "Menu Button Text"
+msgstr ""
+
+#: inc/options/header.php:220
+msgid "Menu Button url"
+msgstr ""
+
+#: inc/options/color.php:140 inc/options/color.php:171
+msgid "Menu Color"
+msgstr ""
+
+#: inc/options/typography.php:141
+msgid "Menu Font"
+msgstr ""
+
+#: inc/options/layout.php:36
+msgid "Menu Icon Area Width"
+msgstr ""
+
+#: inc/options/header.php:103 inc/options/layout.php:143
+msgid "Menu Theme"
+msgstr ""
+
+#: inc/scripts.php:268
+msgid "Minute"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:256
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:718
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:735
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/general.php:241
+msgid "Mobile Menu Or Merge Menu( primary + Offcanvas menu)"
+msgstr ""
+
+#: inc/breadcrumbs.php:769 inc/breadcrumbs.php:825 inc/breadcrumbs.php:1196
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/options/layout.php:416 inc/options/layout.php:491
+#: inc/options/layout.php:548 inc/options/layout.php:612
+msgid "More Options"
+msgstr ""
+
+#: comments.php:39
+msgid "Name"
+msgstr ""
+
+#: template-parts/pagination.php:37 template-parts/blog/content-single.php:154
+msgid "Next"
+msgstr ""
+
+#: inc/options/layout.php:634 inc/options/layout.php:643
+msgid ""
+"Next & Previous case link in single case. Will be shown bottom of the case"
+msgstr ""
+
+#: inc/options/layout.php:365
+msgid ""
+"Next & Previous post link in single post. Will be shown bottom of the each "
+"single Post"
+msgstr ""
+
+#: inc/general.php:210
+msgid "Normal"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/options/footer.php:24
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/options/woocommerce.php:39
+msgid "Number of Columns on Shop Page"
+msgstr ""
+
+#: inc/options/layout.php:422 inc/options/layout.php:508
+#: inc/options/layout.php:571
+msgid "Number of items per page"
+msgstr ""
+
+#: inc/options/layout.php:774
+msgid "Number of other team member"
+msgstr ""
+
+#: inc/options/woocommerce.php:33
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/options/blog.php:26 inc/options/blog.php:34 inc/options/blog.php:42
+#: inc/options/blog.php:50 inc/options/layout.php:657
+#: inc/options/layout.php:690 inc/options/post.php:26 inc/options/post.php:34
+#: inc/options/post.php:42 inc/options/post.php:50 inc/options/post.php:58
+#: inc/options/post.php:66 inc/options/post.php:74 inc/options/post.php:107
+#: inc/options/under-construction.php:61
+msgid "Off"
+msgstr ""
+
+#: inc/options/header.php:246
+msgid "Offcanvas footer"
+msgstr ""
+
+#: inc/general.php:240 inc/options/header.php:238 inc/options/layout.php:82
+#: inc/options/typography.php:181
+msgid "Offcanvas Menu"
+msgstr ""
+
+#: inc/options/typography.php:187
+msgid "Offcanvas Menu Font"
+msgstr ""
+
+#: inc/options/header.php:255
+msgid "Offcanvas menu footer social title "
+msgstr ""
+
+#: inc/options/socials.php:30
+msgid "Office Time"
+msgstr ""
+
+#: inc/options/blog.php:25 inc/options/blog.php:33 inc/options/blog.php:41
+#: inc/options/blog.php:49 inc/options/layout.php:656
+#: inc/options/layout.php:689 inc/options/post.php:25 inc/options/post.php:33
+#: inc/options/post.php:41 inc/options/post.php:49 inc/options/post.php:57
+#: inc/options/post.php:65 inc/options/post.php:73 inc/options/post.php:106
+#: inc/options/under-construction.php:60
+msgid "On"
+msgstr ""
+
+#: inc/options/layout.php:741
+msgid "Only work in full width layout"
+msgstr ""
+
+#: inc/options/error.php:33
+msgid "Oops! That page cannot be found"
+msgstr ""
+
+#: template-parts/header/header-2.php:90
+msgid "Opening Hours"
+msgstr ""
+
+#. Name of the theme
+msgid "Optimax"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Optimax is a clean and modern WordPress Theme for all kinds of SEO, Digital "
+"marketing and Web Agency Company. It is perfect for any kind Web and "
+"corporate business company like SEO Service, Digital Marketing, Email "
+"Marketing, Web Service provider, Software Development company and mobile "
+"application development company etc"
+msgstr ""
+
+#: inc/general.php:193
+msgid "Orange dark light color"
+msgstr ""
+
+#: inc/options/layout.php:429 inc/options/layout.php:515
+#: inc/options/layout.php:578
+msgid "Order By"
+msgstr ""
+
+#: inc/options/layout.php:733
+msgid "Others Team"
+msgstr ""
+
+#: inc/options/layout.php:740
+msgid "Others team member"
+msgstr ""
+
+#: woocommerce/custom/functions.php:401
+msgid "Out of Stock"
+msgstr ""
+
+#: inc/options/layout.php:299
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/helper.php:70
+msgid "Page not Found"
+msgstr ""
+
+#: inc/options/under-construction.php:45
+msgid "Page Title"
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/blog/content-single.php:74
+msgid "Pages:"
+msgstr ""
+
+#: inc/options/socials.php:24 template-parts/header/header-2.php:68
+#: template-parts/header/header-3.php:59
+msgid "Phone"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:25 inc/options/socials.php:67
+msgid "Pinterest"
+msgstr ""
+
+#: inc/options/general.php:42
+msgid ""
+"Please upload your choice of preloader image. Transparent GIF format is "
+"recommended"
+msgstr ""
+
+#: inc/options/post.php:16
+msgid "Post Settings"
+msgstr ""
+
+#: inc/options/layout.php:372
+msgid "Post Single"
+msgstr ""
+
+#: inc/options/general.php:33
+msgid "Preloader"
+msgstr ""
+
+#: inc/options/general.php:41
+msgid "Preloader Image"
+msgstr ""
+
+#: template-parts/pagination.php:36 template-parts/blog/content-single.php:138
+msgid "Previous"
+msgstr ""
+
+#: inc/general.php:239
+msgid "Primary"
+msgstr ""
+
+#: inc/general.php:131 inc/options/color.php:31
+msgid "Primary Color"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:44
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/options/woocommerce.php:77
+msgid "Product Single Page"
+msgstr ""
+
+#: inc/options/layout.php:704
+msgid "Project Info Title"
+msgstr ""
+
+#: template-parts/case/content-case-single-1.php:56
+#: template-parts/case/content-case-single-2.php:59
+#: template-parts/case/content-case-single-3.php:65
+msgid "Published"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/custom/functions.php:333 woocommerce/custom/functions.php:337
+msgid "QuickView"
+msgstr ""
+
+#: inc/options/woocommerce.php:45 inc/options/woocommerce.php:99
+msgid "Quickview"
+msgstr ""
+
+#. Author of the theme
+msgid "RadiusTheme"
+msgstr ""
+
+#: inc/options/woocommerce.php:69
+msgid "Rating"
+msgstr ""
+
+#: template-parts/blog/content-1.php:56 template-parts/blog/content-2.php:56
+#: template-parts/blog/content-3.php:45
+msgid "READ MORE"
+msgstr ""
+
+#: inc/options/blog.php:57
+msgid "Read more text for blog archive page"
+msgstr ""
+
+#: template-parts/content-none.php:13
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>"
+msgstr ""
+
+#: inc/options/layout.php:817
+msgid "Recent Case Study bottom of Single Service"
+msgstr ""
+
+#: comments.php:27
+msgid "Reply"
+msgstr ""
+
+#: inc/options/header.php:68
+msgid "Responsive Header Screen Width"
+msgstr ""
+
+#: inc/options/layout.php:22
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/general.php:176
+msgid "Rose Bud"
+msgstr ""
+
+#: inc/options/socials.php:85
+msgid "RSS"
+msgstr ""
+
+#: inc/options/header.php:69
+msgid "Screen width in which mobile menu activated. Recommended value is: 992"
+msgstr ""
+
+#: template-parts/header/icon-area.php:27
+#: template-parts/header/icon-area.php:30
+#: template-parts/header/icon-search.php:17
+#: template-parts/header/icon-search.php:20
+msgid "Search"
+msgstr ""
+
+#: inc/general.php:378 template-parts/header/fullscreen-search.php:4
+msgid "Search here ..."
+msgstr ""
+
+#: inc/options/header.php:230 inc/options/layout.php:60
+msgid "Search Icon"
+msgstr ""
+
+#: inc/options/layout.php:383
+msgid "Search Layout"
+msgstr ""
+
+#: inc/helper.php:73
+msgid "Search Results for : "
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs.php:250
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/scripts.php:269
+msgid "Second"
+msgstr ""
+
+#: inc/general.php:136 inc/options/color.php:39
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/options/layout.php:591
+msgid "Service Archive"
+msgstr ""
+
+#: inc/options/layout.php:456
+msgid "Service Archive Content Subtitle"
+msgstr ""
+
+#: inc/options/layout.php:449
+msgid "Service Archive Content Title"
+msgstr ""
+
+#: inc/options/layout.php:440 inc/options/layout.php:554
+msgid "Service Archive Sub Title"
+msgstr ""
+
+#: inc/options/layout.php:563
+msgid "Service Archive Sub-title"
+msgstr ""
+
+#: inc/options/layout.php:564
+msgid "service Archive Sub-title"
+msgstr ""
+
+#: inc/options/general.php:122
+msgid "Service Archive Title"
+msgstr ""
+
+#: inc/options/general.php:115
+msgid "Service Category Slug"
+msgstr ""
+
+#: inc/options/general.php:140
+msgid "Service Page Title"
+msgstr ""
+
+#: inc/options/layout.php:850
+msgid "service Single"
+msgstr ""
+
+#: inc/options/general.php:108
+msgid "Service Slug"
+msgstr ""
+
+#: inc/options/footer.php:50
+msgid "Shape show / hide"
+msgstr ""
+
+#: template-parts/team/single-optimax-team.php:41
+msgid "shape-5"
+msgstr ""
+
+#: template-parts/team/single-optimax-team.php:44
+msgid "shape-6"
+msgstr ""
+
+#: footer.php:39
+msgid "shape1"
+msgstr ""
+
+#: footer.php:42
+msgid "shape2"
+msgstr ""
+
+#: footer.php:45
+msgid "shape3"
+msgstr ""
+
+#: footer.php:48
+msgid "shape4"
+msgstr ""
+
+#: footer.php:51
+msgid "shape5"
+msgstr ""
+
+#: footer.php:54
+msgid "shape6"
+msgstr ""
+
+#: footer.php:57
+msgid "shape7"
+msgstr ""
+
+#: template-parts/case/content-case-single-1.php:71
+#: template-parts/case/content-case-single-2.php:74
+#: template-parts/case/content-case-single-3.php:74
+msgid "Share"
+msgstr ""
+
+#: woocommerce/custom/functions.php:294
+msgid "Share:"
+msgstr ""
+
+#: inc/options/woocommerce.php:92 inc/options/woocommerce.php:100
+msgid "Show"
+msgstr ""
+
+#: inc/options/layout.php:804
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/options/header.php:130 inc/options/layout.php:444
+#: inc/options/layout.php:558
+msgid "Show header at the top when scrolling down"
+msgstr ""
+
+#: inc/options/layout.php:630
+msgid "Show Next & Previous case link"
+msgstr ""
+
+#: inc/options/layout.php:361
+msgid "Show Next & Previous post link"
+msgstr ""
+
+#: inc/options/layout.php:696
+msgid "Show Project Info Title"
+msgstr ""
+
+#: inc/options/layout.php:639
+msgid "Show Related Case Study"
+msgstr ""
+
+#: inc/options/layout.php:813
+msgid "Show Related Service"
+msgstr ""
+
+#: inc/options/under-construction.php:59
+msgid "Show Social profile"
+msgstr ""
+
+#: inc/helper.php:213
+msgid "Sidebar"
+msgstr ""
+
+#: inc/options/color.php:24
+msgid "Sitewide Colors"
+msgstr ""
+
+#: inc/options/socials.php:79
+msgid "Skype"
+msgstr ""
+
+#: inc/general.php:205
+msgid "Small"
+msgstr ""
+
+#: inc/options/layout.php:664 inc/options/post.php:81
+msgid "Social Sharing Icons"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/options/error.php:39
+msgid "Sorry, but the page you are looking for does not existing"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:37
+msgid "Stackoverflow"
+msgstr ""
+
+#: inc/options/header.php:126
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/options/color.php:250
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/options/color.php:264
+msgid "Sticky Menu Accent / Hover Color"
+msgstr ""
+
+#: inc/options/color.php:271
+msgid "Sticky Menu Background Color"
+msgstr ""
+
+#: inc/options/color.php:257
+msgid "Sticky Menu Color"
+msgstr ""
+
+#: inc/options/header.php:41
+msgid "Sticky Menu Logo"
+msgstr ""
+
+#: inc/options/layout.php:497 inc/options/layout.php:619
+msgid "Style"
+msgstr ""
+
+#: inc/options/footer.php:82 inc/options/layout.php:258
+#: inc/options/layout.php:499 inc/options/layout.php:621
+msgid "Style 1"
+msgstr ""
+
+#: inc/options/footer.php:83 inc/options/layout.php:259
+#: inc/options/layout.php:500 inc/options/layout.php:622
+msgid "Style 2"
+msgstr ""
+
+#: inc/options/layout.php:501 inc/options/layout.php:623
+msgid "Style 3"
+msgstr ""
+
+#: inc/options/color.php:279
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/options/typography.php:158
+msgid "Sub Menu Items"
+msgstr ""
+
+#: inc/options/color.php:300
+msgid "Submenu Accent / Hover Color"
+msgstr ""
+
+#: inc/options/color.php:293
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/options/color.php:286
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/options/typography.php:164
+msgid "Submenu Font"
+msgstr ""
+
+#: inc/options/color.php:307
+msgid "Submenu Hover Background Color"
+msgstr ""
+
+#: inc/options/layout.php:830
+msgid "Subtitle for more Case Studies"
+msgstr ""
+
+#: inc/options/layout.php:757
+msgid "subtitle for more team member"
+msgstr ""
+
+#: inc/options/layout.php:528
+msgid "Team Archive"
+msgstr ""
+
+#: inc/options/general.php:134
+msgid "Team Archive Title"
+msgstr ""
+
+#: inc/options/general.php:80
+msgid "Team Category Slug"
+msgstr ""
+
+#: inc/options/general.php:152
+msgid "Team Page Title"
+msgstr ""
+
+#: inc/options/layout.php:784
+msgid "Team Single"
+msgstr ""
+
+#: inc/options/layout.php:766
+msgid "Team single sub-title"
+msgstr ""
+
+#: inc/options/layout.php:767
+msgid "Team single subtitle"
+msgstr ""
+
+#: inc/options/layout.php:749
+msgid "Team Single title"
+msgstr ""
+
+#: inc/options/layout.php:750
+msgid "team single title"
+msgstr ""
+
+#: inc/options/general.php:73
+msgid "Team Slug"
+msgstr ""
+
+#: inc/general.php:146 inc/options/color.php:53
+msgid "Text Color Dark"
+msgstr ""
+
+#: inc/general.php:151 inc/options/color.php:60
+msgid "Text color light"
+msgstr ""
+
+#: inc/options/color.php:33
+msgid "Theme Default: #4a3bca"
+msgstr ""
+
+#: inc/options/init.php:34 inc/options/init.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options/general.php:159
+msgid ""
+"This image will be used as preview image in some archive pages if no "
+"featured image exists"
+msgstr ""
+
+#: inc/options/layout.php:336 inc/options/layout.php:432
+#: inc/options/layout.php:518 inc/options/layout.php:581
+msgid "Title"
+msgstr ""
+
+#: inc/options/header.php:139 inc/options/layout.php:169
+msgid "To Enable Transparent Header"
+msgstr ""
+
+#: inc/options/header.php:148 inc/options/layout.php:156
+msgid "To Enable Transparent Top Bar. Work when transparent header is Enabled"
+msgstr ""
+
+#: inc/options/header.php:153 inc/options/layout.php:95
+msgid "Top Bar"
+msgstr ""
+
+#: inc/options/header.php:160 inc/options/layout.php:106
+msgid "Top Bar Layout"
+msgstr ""
+
+#: inc/options/header.php:164
+msgid "Top Bar Layout 1"
+msgstr ""
+
+#: inc/options/header.php:165
+msgid "Top Bar Layout 2"
+msgstr ""
+
+#: inc/options/header.php:166
+msgid "Top Bar Layout 3"
+msgstr ""
+
+#: inc/options/header.php:167
+msgid "Top Bar Layout 4"
+msgstr ""
+
+#: inc/options/color.php:102
+msgid "Topbar"
+msgstr ""
+
+#: inc/options/color.php:124
+msgid "Topbar Background Color"
+msgstr ""
+
+#: inc/options/color.php:110
+msgid "Topbar Color"
+msgstr ""
+
+#: inc/options/color.php:117
+msgid "Topbar Hover Color"
+msgstr ""
+
+#: inc/options/header.php:135 inc/options/layout.php:168
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/options/color.php:222
+msgid "Transparent Menu  - Dark Theme"
+msgstr ""
+
+#: inc/options/color.php:193
+msgid "Transparent Menu  - Light Theme"
+msgstr ""
+
+#: inc/options/color.php:236
+msgid "Transparent Menu Accent / Hover Color"
+msgstr ""
+
+#: inc/options/color.php:207
+msgid "Transparent Menu Accent/Hover Color"
+msgstr ""
+
+#: inc/options/color.php:214 inc/options/color.php:243
+msgid "Transparent Menu Background Color"
+msgstr ""
+
+#: inc/options/color.php:200 inc/options/color.php:229
+msgid "Transparent Menu Color"
+msgstr ""
+
+#: inc/options/header.php:144 inc/options/layout.php:155
+msgid "Transparent Top Bar"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:13 inc/options/socials.php:49
+msgid "Twitter"
+msgstr ""
+
+#: inc/options/typography.php:16
+msgid "Typography"
+msgstr ""
+
+#: inc/options/under-construction.php:16
+msgid "Under Construction"
+msgstr ""
+
+#: inc/options/under-construction.php:24
+msgid "Under Construction / Coming Soon Mode"
+msgstr ""
+
+#: inc/options/under-construction.php:69
+msgid "Under Construction Image"
+msgstr ""
+
+#: inc/options/under-construction.php:35
+msgid "Under Construction Logo / Image"
+msgstr ""
+
+#: inc/options/header.php:201
+msgid "Used for header style 4"
+msgstr ""
+
+#: inc/options/header.php:45
+msgid "Used for sticky menu"
+msgstr ""
+
+#: inc/options/header.php:36
+msgid "Used when Dark Header is enabled"
+msgstr ""
+
+#: inc/general.php:186
+msgid "very dark gray"
+msgstr ""
+
+#: inc/general.php:181
+msgid "very light gray"
+msgstr ""
+
+#: template-parts/service/partials/recent-case-study.php:83
+msgid "VIEW ALL CASES"
+msgstr ""
+
+#: template-parts/case/content-case-single-1.php:68
+#: template-parts/case/content-case-single-2.php:71
+#: template-parts/case/content-case-single-3.php:71
+msgid "Views"
+msgstr ""
+
+#: comments.php:45 template-parts/case/content-case-single-1.php:65
+#: template-parts/case/content-case-single-2.php:68
+#: template-parts/case/content-case-single-3.php:68
+msgid "Website"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:258
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:798
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: template-parts/header/topbar-2.php:15
+msgid "Welcome to"
+msgstr ""
+
+#: inc/options/header.php:92
+msgid ""
+"Width is defined by the number of bootstrap columns. Please note, navigation "
+"menu width will be decreased with the increase of icon area width"
+msgstr ""
+
+#: inc/options/header.php:79
+msgid ""
+"Width is defined by the number of bootstrap columns. Please note, navigation "
+"menu width will be decreased with the increase of logo width"
+msgstr ""
+
+#: inc/options/general.php:74 inc/options/general.php:81
+#: inc/options/general.php:88 inc/options/general.php:95
+#: inc/options/general.php:102 inc/options/general.php:109
+#: inc/options/general.php:116
+msgid "Will be used in URL"
+msgstr ""
+
+#: inc/options/under-construction.php:46
+msgid "Will Open Soon . . . "
+msgstr ""
+
+#: woocommerce/custom/template-parts/wishlist-icon.php:37
+msgid "WishList"
+msgstr ""
+
+#: inc/options/woocommerce.php:53 inc/options/woocommerce.php:83
+msgid "Wishlist"
+msgstr ""
+
+#: inc/options/woocommerce.php:19
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/breadcrumbs.php:768 inc/breadcrumbs.php:797 inc/breadcrumbs.php:824
+#: inc/breadcrumbs.php:851 inc/breadcrumbs.php:1192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: template-parts/comments-callback.php:35
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr ""
+
+#: inc/helper-traits/data-trait.php:21 inc/options/socials.php:61
+msgid "Youtube"
+msgstr ""
