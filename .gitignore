@@ -1,5 +1,9 @@
 .DS_Store
+themes/twentytwentyfour
+themes/twentytwentythree
 themes/twentytwentytwo
 themes/twentytwentyone
 themes/twentytwenty
 plugins
+.idea
+.vscode
