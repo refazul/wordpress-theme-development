@@ -4,6 +4,6 @@ themes/twentytwentythree
 themes/twentytwentytwo
 themes/twentytwentyone
 themes/twentytwenty
-plugins
+/plugins
 .idea
 .vscode
