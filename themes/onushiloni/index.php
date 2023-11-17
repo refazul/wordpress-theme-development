@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html <?php language_attributes(); ?>>
-<head>
-    <meta charset="<?php bloginfo( 'charset' ); ?>">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php wp_title( '|', true, 'right' ); ?></title>
-    <?php wp_head(); ?>
-</head>
-<body <?php body_class(); ?>>
+<?php get_header();?>
 <div class="container">
     <header>
         <h1><?php bloginfo( 'name' ); ?></h1>
@@ -23,12 +15,5 @@
             <p><?php _e( 'Sorry, no posts matched your criteria.' ); ?></p>
         <?php endif; ?>
     </main>
-
-    <footer>
-        <p>&copy; <?php echo date( 'Y' ); ?> <?php bloginfo( 'name' ); ?></p>
-    </footer>
 </div>
-
-<?php wp_footer(); ?>
-</body>
-</html>
+<?php get_footer(); ?>
