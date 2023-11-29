@@ -1,4 +1,5 @@
 <?php
+wp_nav_menu( array( 'theme_location' => 'footer' ) );
 // This action hook is essential for adding content before the WooCommerce footer.
 do_action( 'woocommerce_before_footer' );
 

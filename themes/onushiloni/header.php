@@ -25,3 +25,4 @@ do_action( 'woocommerce_before_header' );
 
 // This action hook is useful for adding elements right before the main content.
 do_action( 'woocommerce_before_main_content' );
+wp_nav_menu( array( 'theme_location' => 'primary' ) );
